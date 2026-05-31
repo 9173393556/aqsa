@@ -958,16 +958,7 @@ touch-action: pan-y;
     font-size: 22px;
     opacity: 0;
 }
-overflow-y: scroll;
-max-height: 400px;
-.boxMail .boxMail-container .card2 h2{
-    font-family: 'Dancing Script', cursive;
-    padding: 0px 20px;
-    text-indent: 20px;
-    font-size: 22px;
-    opacity: 0;
-    overflow-y: scroll;
-    max-height: 400px;
+
 }
 .boxMail .boxMail-container .card2:hover h2{
     animation: texth2 2s forwards;
